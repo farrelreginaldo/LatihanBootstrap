@@ -8,3 +8,6 @@
 ![alt text](https://github.com/farrelreginaldo/LatihanBootstrap/blob/master/Modul%20Bootstrap/Ss/Screenshot%20(128).png?raw=true)
 ![alt text](https://github.com/farrelreginaldo/LatihanBootstrap/blob/master/Modul%20Bootstrap/Ss/Screenshot%20(129).png?raw=true)
 ![alt text](https://github.com/farrelreginaldo/LatihanBootstrap/blob/master/Modul%20Bootstrap/Ss/Screenshot%20(130).png?raw=true)
+
+Pertanyaan  :
+1. Apa fungsi var dalam codingan? Terima kasih.
